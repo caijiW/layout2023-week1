@@ -126,8 +126,9 @@ a:hover{
 }
 
 .intro p{
-    width: 363px;
+    width: 636px;
     margin-left: auto;
+    font-size: 32px;
 }
 
 .resume-section{
